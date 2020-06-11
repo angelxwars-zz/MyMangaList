@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Manga List</string>
+    <string name="hello_text">Bienvenido a MangaList - v0.1</string>
+
+    <string name="manga_list">Listado de mangas</string>
+
+    <string name="title_activity_error">ErrorActivity</string>
+
+    <!--Top mangas-->
+    <string name="top_50_title">Top 50 Mangas</string>
+    <string name="top_50_toast">Top 50 Mangas</string>
+
+    <!--Inicio de sesion-->
+    <string name="sing_in_title">Bienvenido a MyMangaList</string>
+
+    <!--My mangas-->
+    <string name="my_mangas_title">Mangas guardados</string>
+    <string name="my_mangas_toast">Mangas guardados</string>
+
+    <!--Manga details-->
+    <string name="manga_added">Se ha añadido el manga a la lista de favoritos</string>
+    <string name="manga_deleted">Se ha eliminado el manga de la lista de favoritos</string>
+    <string name="manga_status_title">Estado</string>
+    <string name="manga_score_title">Puntuacion</string>
+    <string name="manga_start_title">Comienzo</string>
+    <string name="manga_end_title">Fin</string>
+    <string name="manga_chapters_title">Capitulos</string>
+    <string name="manga_volumes_title">Volumenes</string>
+    <string name="manga_synopsis_title">Sinopsis</string>
+    <string name="share_text">Vaya pasada! Te recomiendo leer:</string>
+
+
+
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">MyMangaList</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_logout">Log out</string>
+
+    <!--    Menu Options -->
+    <string name="top_manga_menu">Top Mangas</string>
+    <string name="my_mangas_menu">Mis Mangas</string>
+    <string name="release_notes_menu">Notas de version</string>
+    <string name="coordenadas">Localizacion</string>
+    <string name="multimedia">Multimedia</string>
+
+    <!-- Location-->
+    <string name="latitud_title">Latitud</string>
+    <string name="longitud_title">Longitud</string>
+    <string name="direccion_title">Tu dirección</string>
+
+
+    <!-- Google oauth-->
+    <string name="server_client_id">AIzaSyCKbma3MXTPS_3QjXBjKBFOKSh22ZMvQlo</string>
+
+    <!-- Youtube-->
+    <string name="yt_api">AIzaSyAX7adizxnfG1ysbmw8V_xyZfrLvxMC3YY</string>
+
+
+</resources>
