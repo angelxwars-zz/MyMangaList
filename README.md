@@ -9,5 +9,5 @@ You can log in to the app with the Google service. In the app, you can see the t
 You can explore this list of best manga and see more specific details for each manga. The application has an SQLite database, where it stores your favorite manga and you can see them in a list.
 On the other hand, you can share manga information with other mobile applications.
 
-## Cross functionalities
+## Secondary functionalities
 You can watch a YouTube video, using the YouTube Data API, and view the coordinates and location of the device.
